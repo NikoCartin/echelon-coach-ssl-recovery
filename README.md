@@ -41,10 +41,6 @@ The secure API connection was restored and a repeatable certificate-renewal path
 - Systemd
 - SSH
 
-## Engineering Notes
-
-This public case study intentionally focuses on the recovery pattern and technical outcome. It excludes infrastructure identifiers, access material, network details, and environment-specific configuration values.
-
 ---
 
 Developed and documented by **Nícolas Cartín Reyes**.
