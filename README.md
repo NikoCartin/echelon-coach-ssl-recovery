@@ -4,6 +4,11 @@ A public technical case study documenting production HTTPS recovery work for the
 
 **Live platform:** [echeloncoach.com/virtualpt](https://echeloncoach.com/virtualpt/)
 
+<p align="center">
+  <img src="assets/echelon-coach-banner.png" alt="Echelon Coach Virtual Wellness Training" width="100%"/>
+</p>
+
+
 ![Echelon Coach virtual wellness training storefront](assets/echelon-coach-virtualpt-storefront.png)
 
 ## Context
