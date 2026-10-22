@@ -44,11 +44,3 @@ The secure API connection was restored, and the automated certificate-renewal pa
 ---
 
 **Lead Developer:** Nícolas Cartín Reyes
-
-## Session media reliability remediation
-
-The production issue involving missing trainer media on desktop and sideways trainer video on mobile is documented in [Echelon Coach session media reliability remediation](case-studies/coach-session-media-reliability-remediation.md).
-
-The public documentation covers the problem, root cause, defensive Agora lifecycle design, bounded retries, video metadata handling, validation approach, and engineering outcome. It does not include private source code, credentials, infrastructure identifiers, customer information, or operational access details.
-
-**Lead Developer:** Nicolás Cartín Reyes
